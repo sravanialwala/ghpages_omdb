@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ghpages_omdb/static/css/main.750bf7e9.chunk.css",
+    "main.js": "/ghpages_omdb/static/js/main.23f70050.chunk.js",
+    "main.js.map": "/ghpages_omdb/static/js/main.23f70050.chunk.js.map",
+    "runtime-main.js": "/ghpages_omdb/static/js/runtime-main.db47492d.js",
+    "runtime-main.js.map": "/ghpages_omdb/static/js/runtime-main.db47492d.js.map",
+    "static/js/2.36d3fbde.chunk.js": "/ghpages_omdb/static/js/2.36d3fbde.chunk.js",
+    "static/js/2.36d3fbde.chunk.js.map": "/ghpages_omdb/static/js/2.36d3fbde.chunk.js.map",
+    "index.html": "/ghpages_omdb/index.html",
+    "precache-manifest.5a909d6875f66d4335ac1e468aba546a.js": "/ghpages_omdb/precache-manifest.5a909d6875f66d4335ac1e468aba546a.js",
+    "service-worker.js": "/ghpages_omdb/service-worker.js",
+    "static/css/main.750bf7e9.chunk.css.map": "/ghpages_omdb/static/css/main.750bf7e9.chunk.css.map",
+    "static/js/2.36d3fbde.chunk.js.LICENSE": "/ghpages_omdb/static/js/2.36d3fbde.chunk.js.LICENSE",
+    "static/media/army.png": "/ghpages_omdb/static/media/army.f2339208.png",
+    "static/media/cross.png": "/ghpages_omdb/static/media/cross.6d33bc3a.png",
+    "static/media/imdb1.png": "/ghpages_omdb/static/media/imdb1.6e673bc0.png",
+    "static/media/logo.svg": "/ghpages_omdb/static/media/logo.5d5d9eef.svg",
+    "static/media/noimg.png": "/ghpages_omdb/static/media/noimg.6525eb42.png",
+    "static/media/search.png": "/ghpages_omdb/static/media/search.bffa89cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db47492d.js",
+    "static/js/2.36d3fbde.chunk.js",
+    "static/css/main.750bf7e9.chunk.css",
+    "static/js/main.23f70050.chunk.js"
+  ]
+}
